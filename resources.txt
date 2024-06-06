@@ -1,0 +1,20 @@
+
+#1 SOURCE: https://www.reddit.com/r/learnprogramming/comments/bn20hz/best_way_to_learn_htmlcss/
+
+	_______________________________________________________________
+	|Beginners guide to learn:					|
+
+	|Step 1) https://internetingishard.com/				|			
+
+	|Step 2) http://learnlayout.com/				|		
+
+	|Step 3) https://learn.shayhowe.com/html-css/			|
+
+	|Step 4) https://www.htmldog.com/guides/css/advanced/		|
+
+	|Step 5) https://www.edx.org/course/advanced-css-concepts-3	|
+	________________________________________________________________|
+
+
+
+
